@@ -1,7 +1,9 @@
-gpt-from-scratch/
-├─ data/
-│ └─ tiny_shakespeare.txt # example corpus
-├─ gpt-from-scratch.ipynb # single deliverable (export to PDF)
-├─ README.md # short intro + how to run
-└─ requirements.txt # torch, numpy, matplotlib, tqdm
+# GPT from Scratch
+Single-notebook project (n-gram → neural n-gram → Mini-GPT).
+
+## How to run
+1. Clone or download this repo
+2. `pip install -r requirements.txt`
+3. Open `gpt-from-scratch.ipynb` in Jupyter, run all cells
+4. Export to PDF for the final report
 
