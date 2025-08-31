@@ -1,6 +1,7 @@
 # GPT from Scratch
 Single-notebook project (n-gram → neural n-gram → Mini-GPT).
-By Luca, Lennart and Shiraf Group 24 
+
+By Luca, Lennart and Shiraf Group 24.
 
 ## How to run
 1. Clone or download this repo
